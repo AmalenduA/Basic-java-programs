@@ -27,7 +27,7 @@ public class SearchString {
 		if(count==0)
 			System.out.println(c+" not found");
 		else if(count==1)
-			System.out.println(c+" is present at index"+b[0]);
+			System.out.println(c+" is present at index "+b[0]);
 		else 
 		{
 			System.out.println(c+" repeating "+count+" times at ");
